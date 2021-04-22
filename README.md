@@ -1,4 +1,4 @@
-# Informational Retrieval
+# Information Retrieval
 
 The project is conducted under the course Informational Retrieval 1 - MSc Artificial Intelligence @ UvA. 
 
