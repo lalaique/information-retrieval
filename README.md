@@ -1,17 +1,33 @@
 # Information Retrieval
 
-The projects are conducted under the course Informational Retrieval 1 - MSc Artificial Intelligence @ UvA. 
+The projects were conducted under the course Informational Retrieval 1 - MSc Artificial Intelligence @ UvA. 
 
 
 ---
 
-### Project 1 - Term-based Matching & Semantic-based Matching
+### Project 1 - Document Matching 
 
-The first assignemnt consists of two sections. The first section focuses on term-based matching, including text preprocessing,  standard IR methods (TF-IDF, BM25, QL) implementations, and IR methods evaluation. The second section focuses on semantic-based matching, including implementing vector-space retrieval methods (LSI, LDA, Word2Vec, Doc2Vec). 
-
-
+The first project consists of two sections:
+1. Term-based matching
+   - Text preprocessing (tokenization, lemminization, etc)
+   - TF-IDF
+   - BM25
+   - QL
+2. Semantic-based matching
+   - LSI
+   - LDA
+   - Word2Vec
+   - Doc2Vec
+    
 ---
 
 ### Project 2 - Offline & Online Learting to Rank(LTR)
 
-The second assigment is about building Offline & Online LTR. The former includes implementing pointwise, pairwise and listwise algorithms. The latter includes to implement LTR algorithms from historical clicks, probabilistic multileaving, and online evaluation. 
+1. Offline LTR:
+   - Pointwise
+   - Pairwise 
+   - Listwise 
+2. Online LTR:
+   - LTR algorithms from historical clicks 
+   - Probabilistic multileaving 
+   - Online evaluation
